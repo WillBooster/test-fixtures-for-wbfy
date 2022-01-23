@@ -4,8 +4,8 @@
 __metadata:
   version: 4
 
-"yarn1@workspace:.":
+"yarn3@workspace:.":
   version: 0.0.0-use.local
-  resolution: "yarn1@workspace:."
+  resolution: "yarn3@workspace:."
   languageName: unknown
   linkType: soft
