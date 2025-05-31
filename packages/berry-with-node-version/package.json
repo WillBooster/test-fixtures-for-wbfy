@@ -1,5 +1,5 @@
 {
   "name": "yarn3-with-node-version",
   "version": "1.0.0",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@4.9.1"
 }
